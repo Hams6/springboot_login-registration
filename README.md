@@ -23,16 +23,16 @@ The app user with different roles (admin, user), the registration service, Sprin
 
 
 ## Diagram
-![my image](C:\Users\Hams\Desktop\diagram.png)
+![my image](./assets/diagram.png)
 
 ## Login page
-![my image](C:\Users\Hams\Desktop\signin.png)
+![my image](./assets/signin.png)
 
 ## Email verification link with expiry
-![my image](C:\Users\Hams\Desktop\maildev.png)
+![my image](./assets/maildev.png)
 
 ## Postman
-![my image](C:\Users\Hams\Desktop\postman.png)
+![my image](./assets/postman.png)
 
 # CURL
 <pre>
